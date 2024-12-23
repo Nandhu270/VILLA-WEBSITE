@@ -49,5 +49,19 @@ A visually appealing and responsive static website for villa booking, created us
    git clone https://github.com/Nandhu270/VILLA-WEBSITE.git
    cd VILLA-WEBSITE
 
+## Output 
 
-  
+Home Page:
+![image](https://github.com/user-attachments/assets/f948394b-0200-4078-96ee-5aaca282158e)
+
+Location Page:
+![image](https://github.com/user-attachments/assets/e1541f1d-2620-4489-ba27-770a7e417e87)
+
+Details Page:
+![image](https://github.com/user-attachments/assets/6a502c7a-68ac-4d96-9854-32e4ca771003)
+
+Overview Page:
+![image](https://github.com/user-attachments/assets/e8f91643-fd27-4941-aab1-08a0675e58eb)
+
+Contact Page:
+![image](https://github.com/user-attachments/assets/63bccb88-af03-41e9-8add-c9d96ff308de)
